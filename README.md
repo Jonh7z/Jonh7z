@@ -33,8 +33,8 @@
 ## &nbsp;Social Medias
 
 <p align="left">
-<a href="https://linkedin.com/in/joao-victor-mendes-valentim-13a553287/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/joao-victor-mendes-valentim-13a553287/?style=flat&logo=linkedin" alt=""/>
+<a href="https://linkedin.com/in/joaovmv7/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaovmv7-05122A?style=flat&logo=linkedin" alt=""/>
 </a>
 <a href="https://instagram.com/joaovmv7" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-joaovmv7-05122A?style=flat&logo=instagram" alt="instagram"/>
