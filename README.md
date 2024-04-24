@@ -7,8 +7,6 @@
 
 - 💆🏻‍♂️ Gosto de desenvolver sites e tenho hobby em Redes de Computadores
 
-- <img src="https://img.shields.io/badge/-joaovmv7-05122A?style=flat&logo=instagram" width="20px"> Me siga no [Instagram](https://www.instagram.com/joaovmv7/)
-
 - 💬 Me pergunte qualquer coisa sobre **JavaScript, HTML, CSS**
 
 <br>
@@ -36,7 +34,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/joao-victor-mendes-valentim-13a553287/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/joao-victor-mendes-valentim-13a553287/?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/joao-victor-mendes-valentim-13a553287/?style=flat&logo=linkedin" alt=""/>
 </a>
 <a href="https://instagram.com/joaovmv7" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-joaovmv7-05122A?style=flat&logo=instagram" alt="instagram"/>
